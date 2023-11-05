@@ -163,6 +163,7 @@ data/
 models/
 notebooks/
 tutorials/
+Image/
 .vscode/
 
 .DS_Store
